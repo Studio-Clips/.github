@@ -1,7 +1,7 @@
 # Clip Studio Paint Art Studio Hub
 
 <div align="center">
-  <img src="https://img.gta5-mods.com/.png" alt="Clip Studio Paint Art Studio"/>
+  <img src="https://static.wikia.nocookie.net/logopedia/images/4/40/ClipStudioPaint.png/revision/latest?cb=20241225011531" alt="Clip Studio Paint Art Studio"/>
 </div>
 
 **Optimize your digital art creation pipeline with expert resources for Clip Studio Paint illustration and comic workflows.**
