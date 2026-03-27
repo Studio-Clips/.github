@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Art Studio](https://img.shields.io/badge/_ACCESS_THE_ART_STUDIO-Clip_Studio_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
+[![Access the Art Studio](https://img.shields.io/badge/_ACCESS_THE_ART_STUDIO-Clip_Studio_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/studio-clips)
 </div>
 
 ## What is this Clip Studio Paint Art Studio Integration?
